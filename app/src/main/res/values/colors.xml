@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+
+    <color name="fontBase">#961c00</color>
+    <color name="fontWhite">#FFFFFF</color>
+    <color name="fontBlack">#000000</color>
+    <color name="star">#FFC729</color>
+    <color name="cancel">#FF7878</color>
+    <color name="accept">#88C057</color>
+</resources>
